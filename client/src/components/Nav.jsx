@@ -59,7 +59,7 @@ export default function Nav() {
                         <HashLink to="/#contactus" smooth>Contact Us</HashLink>
                         {
                             loggedUser == null ?
-                                <button><HashLink to="/login">Sign in</HashLink></button>
+                                <button><HashLink to="/login">Signin</HashLink></button>
                                 :
                                 <div className="menu">
                                     <img src={avatar === 'no-image.png' ? noImage : `http://localhost:3001/ProfilePic/${avatar}`} onClick={e => dropdown.current.classList.toggle('active')} alt="Profile Picture" />
