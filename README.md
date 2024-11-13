@@ -1,1 +1,1 @@
-[Watch the demo video](https://github.com/SumanthAmiiti/NaanMudhalvan_Freelancing/blob/main/naan.mp4)
+[![Watch the demo video]](./naan-ezgif.com-video-to-gif-converter.gif)
