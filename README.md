@@ -1,3 +1,3 @@
 <p align="center">
-![Demo Video](./naan-ezgif.com-video-to-gif-converter.gif)
+  <img src="./naan-ezgif.com-video-to-gif-converter.gif" alt="Demo Video">
 </p>
