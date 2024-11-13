@@ -1,1 +1,1 @@
-[![Watch the video](./naan.mp4)]
+[Watch the demo video](https://github.com/SumanthAmiiti/NaanMudhalvan_Freelancing/blob/main/naan.mp4)
